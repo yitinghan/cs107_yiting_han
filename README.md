@@ -1,6 +1,6 @@
 # cs107_yiting_han
 
-## Course site : (https://harvard-iacs.github.io/2021-CS107/)
+## [Course site](https://harvard-iacs.github.io/2021-CS107/)
 
 ## Contents
 1. lectures
@@ -10,4 +10,4 @@
 ## Pair Programming Session 
 | Time              | TA            | Zoom Link  |
 | ----------------- |:-------------:| ---------: |
-| Friday 4:00- 5:15 | Sehaj         | (https://harvard.zoom.us/j/96869007293)|
+| Friday 4:00- 5:15 | Sehaj         | [Click here](https://harvard.zoom.us/j/96869007293)|
