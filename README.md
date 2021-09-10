@@ -8,6 +8,6 @@
 3. pair_programming
 
 ## Pair Programming Session 
-| Time              | TA            | Zoom Link  |
-| ----------------- |:-------------:| ---------: |
-| Friday 4:00- 5:15 | Sehaj         | [Click here](https://harvard.zoom.us/j/96869007293)|
+| Time                | TA            | Zoom Link   |
+| -----------------   |:-------------:| :---------: |
+| Friday 4:00- 5:15pm | Sehaj         | [Click here](https://harvard.zoom.us/j/96869007293)|
