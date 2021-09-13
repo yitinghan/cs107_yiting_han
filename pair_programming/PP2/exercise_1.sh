@@ -2,6 +2,9 @@
 # File: exercise_1.sh
 # Created：Mon Sept 13 2021
 # Coder: Yiting Han
+# Sharer: Nadine Lee
+# Listener: Kishan Venkataramu
+
 read -r -p "Please select a file to commit: " FILE 
 git add $FILE
 git status
