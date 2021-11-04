@@ -31,11 +31,9 @@ class Fibonacci:
 
     def __iter__(self):
         return FibonacciIterator(self)
-    
-    
+      
 # Test
 fib = Fibonacci(10)
 print(list(iter(fib)))
-
 
 
