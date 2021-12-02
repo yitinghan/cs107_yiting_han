@@ -43,8 +43,9 @@ class Markov:
         if day == 0:
             return self.day_zero_weather
         else:
+            it = self.__iter__()
             for i in range(day):
-                self._current_day_weather = next(self.__iter__())
+                self._current_day_weather = next(it)
                 self._current_day += 1
             
             prediciton = self._current_day_weather
